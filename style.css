@@ -125,4 +125,14 @@ a{
 .fand-text{
     padding: 15px 25px;
 }
+footer{
+    background-color: #0B0D17;
+    height: 250px;
+    color: #EF233C;
+    text-align: center;
+    padding-top: 70px;
+}
+small{
+    color: #D9D9D9;
+}
 
