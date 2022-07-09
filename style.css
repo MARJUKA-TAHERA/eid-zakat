@@ -14,7 +14,11 @@ h2{
 }
 p{
    color: rgb(106, 99, 99);
-   text-align: justify;
+   
+}
+a{
+    color: #EF233C;
+    text-decoration: none;
 }
 .eid-banner{
     background-image: url(images/Rectangle\ 1.png);
@@ -76,3 +80,49 @@ p{
 .preparto-donation{
     padding-left: 185px;
 }
+.donate-sec{
+    margin-top: 100px;
+    margin-bottom: 80px;
+}
+.donation-valu{
+    text-align: center;
+}
+.help-sec{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.one-sec{
+    display: flex;
+    padding: 20px 30px;
+    margin-left: 20px;
+    background-color: #FEF4F5;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+.icon{
+    padding: 15px 20px;
+}
+.praying-img{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px 120px;
+}
+.donation-fand{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px 180px;
+    border-radius: 10px;
+}
+.eatch-fand{
+    margin-left: 5px;
+    margin-right: 5px;
+    border: 1px solid #D9D9D9;
+    border-radius: 10px;
+    width: 362.80px;
+}
+.fand-text{
+    padding: 15px 25px;
+}
+
